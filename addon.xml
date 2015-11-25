@@ -13,6 +13,7 @@
         <language>de</language>
         <description lang="en">Cooking videos</description>
         <description lang="de">Video Kochrezepte</description>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <website>http://www.chefkoch.de</website>
         <source>https://github.com/AddonScriptorDE/plugin.video.chefkoch_de</source>
         <forum>http://forum.xbmc.org/showthread.php?tid=132563</forum>
